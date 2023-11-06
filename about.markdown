@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<p align="center">
-  <a href=""_blank" rel="noreferrer"><img src="https://github.com/yashwanthmg/res2223/blob/d480ee6dc7b2a8c1524357f60ac8aa6e77deaa3f/Main/Images/image_processing20221109-7-f1u453.jpg" alt="my banner"></a>
-</p>
-
-Work In Progress
 
 <h2 align="center">
 Hi there, I'm Yashwanth MG 👋
@@ -120,9 +115,8 @@ I have a strong passion for my work and take pleasure in both planning and execu
 
 ### 🤝 Connect with me: 
 
-<a href="tel:+919535992120"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/b1925e8c877bfc4254ed62a3cd45268aa6991895/images/call.jpg" alt="Yashwanth MG | Phone Number" width="21px"/></a>
-<a href="https://app.chime.aws/conversations/new?email=mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/6fe48ad830ba499dd0b3ee3e4ea607d05d4ee365/images/chime.jpg" alt="Yashwanth MG | Chime" width="21px"/></a> 
-<a href="mailto:mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/96fc2d4b6f6372d31fc893adb346c3f8dc21b185/images/outlook.jpg" alt="Yashwanth MG | Outlook" width="21px"/></a>
+<a href="tel:+919535992120"><img align="left" src="" alt="Yashwanth MG | Phone Number" width="21px"/></a>
+<a href="mailto:mmgyashw@amazon.com"><img align="left" src="" alt="Yashwanth MG | Outlook" width="21px"/></a>
 <a href="https://www.linkedin.com/in/yashwanth-mg"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 </br>
 
