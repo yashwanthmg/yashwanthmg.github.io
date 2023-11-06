@@ -1,5 +1,5 @@
 # Site settings
-title: Yashwanth MG
+title: Home
 tagline: Business Development Specialist. # it will display as the sub-title
 description: Welcome to my professional portfolio website, where you can delve into my career trajectory, achievements, skill set, and creative projects.
 baseurl: "" # the subpath of your site, e.g., /blog
@@ -63,6 +63,7 @@ feed:
 # SEO and Social
 author: Get in touch
 email: yashwanthmg93@gmail.com
+phone: +919535992120
 linkedin_username: yashwanth-mg
 github_username: yashwanthmg
 
