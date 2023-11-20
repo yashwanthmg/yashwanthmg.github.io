@@ -8,9 +8,14 @@ permalink: /about/
 ## 🌱 Experience
 
 <h4 align ="left">   
-# Amazon - Senior Lead : Nov 2021 - Present
+# Amazon - Senior associate [Lead] : Apr 2022 - Present
 </h4>
-  Total projects Managed : 10
+  Total projects Managed : 07
+
+<h4 align ="left">
+# Blubirch - Manager : Nov 2021 - Mar 2022 
+</h4>
+ Total projects Managed : 03
 
 <h4 align ="left">
 # Prione Business Services Pvt Ltd - Senior Team Lead : Dec 2019 - Nov 2021 
@@ -18,11 +23,7 @@ permalink: /about/
  Total projects Managed : 06
 
  <h4 align ="left">
-# Avis Medika - Territory Sales Executive : Jan 2017 - Nov 2019 
-</h4>
-
- <h4 align ="left">
-# Avis Medika - Operation Executive : Jan 2016 - Dec 2016 
+# Avis Medika - Territory Sales Executive : Jan 2016 - Nov 2019 
 </h4>
 
                                                                                                                                   
@@ -33,7 +34,6 @@ permalink: /about/
 - Six Sigma White Belt - Aveta Business institute - <a href="" target="_blank" rel="noreferrer">View</a>
 - Freecodecamp Data Analysis with Python certification - <a href="" target="_blank" rel="noreferrer">View</a>
 - K-net amazon search essentials, Data at amazon, Retail Essentials etc., - <a href="" target="_blank" rel="noreferrer">View</a>
-
                                                                        
 
 ## 💡 My innovations 
