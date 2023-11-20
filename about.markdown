@@ -71,7 +71,7 @@ permalink: /about/
 
 ### 🤝 Connect with me: 
 
-<a href="+919535992120"><img align="left" src="https://github.com/yashwanthmg/res2223/blob/10c7e1ab6b1ade4bcd67ac68b724c354f0bc0382/Main/Images/call.jpg" alt="Yashwanth MG | Phone Number" width="21px"/></a>
+<a href="tel:+919535992120"><img align="left" src="https://github.com/yashwanthmg/res2223/blob/10c7e1ab6b1ade4bcd67ac68b724c354f0bc0382/Main/Images/call.jpg" alt="Yashwanth MG | Phone Number" width="21px"/></a>
 <a href="mailto:yashwanthmg93@gmail.com"><img align="left" src="https://github.com/yashwanthmg/res2223/blob/10c7e1ab6b1ade4bcd67ac68b724c354f0bc0382/Main/Images/outlook.jpg" alt="Yashwanth MG | Outlook" width="21px"/></a>
 <a href="https://www.linkedin.com/in/yashwanth-mg"><img align="left" src="https://github.com/yashwanthmg/res2223/blob/98a8f7e3231d79962a3f6b0a99f3a4025a1060a3/Main/Images/linkedin.svg" alt="Yashwanth MG | LinkedIn" width="21px"/></a> 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 </br>
