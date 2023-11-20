@@ -37,11 +37,6 @@ defaults:
       path: ""
     values:
       layout: "default-layout"
-  -
-    scope:
-      path: "_posts"
-    values:
-      layout: "post-layout"
 
 # Collections
 collections:
@@ -63,7 +58,7 @@ feed:
 # SEO and Social
 author: Get in touch
 email: yashwanthmg93@gmail.com
-phone: +919535992120
+tel: +919535992120
 linkedin_username: yashwanth-mg
 github_username: yashwanthmg
 
