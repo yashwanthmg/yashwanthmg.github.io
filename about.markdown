@@ -8,7 +8,7 @@ permalink: /about/
 ## 🌱 Experience
 
 <h4 align ="left">   
-# Amazon - Senior associate [Lead] : Apr 2022 - Present
+# Amazon - Senior Associate [Lead] : Apr 2022 - Present
 </h4>
   Total projects Managed : 07
 
