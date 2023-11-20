@@ -72,5 +72,4 @@ permalink: /about/
 
 <a href="tel:+919535992120"> Phone: +919535992120 </a>
  💬 If you have any question/feedback, please do not hesitate to reach out to me!
-</br>
 
