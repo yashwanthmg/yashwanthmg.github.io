@@ -68,10 +68,9 @@ permalink: /about/
 ## Manager & Peer Feedback (FORTE) - <a href="https://github.com/yashwanthmg/ideal-engine/blob/f201d359dec4b9062475c9c208a1f62eaed9ef45/docs/Forte/mmgyashw%20-%20Forte%20Q1%202023.pdf" target="_blank" rel="noreferrer">Read More</a>
 
                                                                                                                             
-
 ### 🤝 Connect with me: 
 
-<a href="tel:+919535992120"> Phone: +919535992120 <alt="Yashwanth MG | Phone Number" width="21px"/></a>
+<a href="tel:+919535992120"> Phone: +919535992120 </a>
 
 <a href="mailto:yashwanthmg93@gmail.com"><img align="left" src="https://github.com/yashwanthmg/res2223/blob/10c7e1ab6b1ade4bcd67ac68b724c354f0bc0382/Main/Images/outlook.jpg" alt="Yashwanth MG | Outlook" width="21px"/></a>
 <a href="https://www.linkedin.com/in/yashwanth-mg"><img align="left" src="https://github.com/yashwanthmg/res2223/blob/98a8f7e3231d79962a3f6b0a99f3a4025a1060a3/Main/Images/linkedin.svg" alt="Yashwanth MG | LinkedIn" width="21px"/></a> 💬 If you have any question/feedback, please do not hesitate to reach out to me!
