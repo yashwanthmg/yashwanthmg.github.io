@@ -9,7 +9,7 @@ Intro
 Professional Summary
 
 # Amazon
-### Past: Blubirch & Prione Business Services PVT LTD (Amazon Subsidiaries)
+Past: Blubirch & Prione Business Services PVT LTD (Amazon Subsidiaries)
 12/2019 - 09/2023, Bangalore
 ## Senior Associate (Lead)
 
