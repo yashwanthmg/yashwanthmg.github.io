@@ -4,40 +4,107 @@ title: Projects
 permalink: /projects/
 ---
 
-## 📝 Projects i have worked on
+Intro
 
-<h4 align ="left">   
-# USI Portfolio & Vendor Inbound Guidelines
-</h4> Company: Amazon - Sr.Manager: Neha - Team: Instock Management, Softlines
+Professional Summary
 
-- SL USI% increased to 0.44% in Aug’22 exit (vs goal of 1%). I started leading the USI (Unsellable Inventory management) portfolio by setting up weekly mechanism with FC to identify ASIN level causes of unsellable inventory. I identified 2 major reasons of USI- a) MRP tags missing in the products either via C-return route or during supply from vendors b) minor refurbishment pending with FC for the c-return products and worked with all 13 vendors to supply separate MRP tags to FC for monthly correction of inventory. My findings also lead to modification of our Inbound and packaging vendor training deck to avoid “MRP tag misses” during vendor’s packaging process. Due to this efforts, USI% decreased to 0.08% in WK 39 (sep’22 exit).
+Amazon
+Past: Blubirch & Prione Business Services PVT LTD (Amazon Subsidiaries)
+12/2019 - 09/2023, Bangalore
+Senior Associate (Lead)
 
-<h4 align ="left">
+Domain: E-commerce
+Sub-Domain: Sales (B2B) and Operations (ISM & SCM), Transaction Risk Management
+Skills: languages, tools, Frameworks, Platforms, 
+
+ # USI Portfolio & Vendor Management Tools
+Role: Lead Vertical: In-stock Management Duration: 09 Months
+Recognition: Employee of the month Sep:2022
+Tools used: Amazon RDS, PostgreSQL, Python, Tableau, Advanced Excel & Macros
+Seasonal Demand Forecasting: Replen and non replen and Seasons, Inventory Optimization: forecasting, Ageing Analysis:  Vendor Supplier Scorecard Models: RFID or Barcode Tracking: Vendor Inbound Guidelines, Warehouse Efficiency:
+My Innovation: ASIN label generator , Bulk email automation script- Read more on GitHub
+
+Include learning and one line contribution of your work to the problem.
+
 # SWOOS% reduction
-</h4> Company: Amazon - Sr.Manager: Neha - Team: Instock Management, Softline
+Role: Lead Vertical: In-stock Management Duration: 09 Months
+Recognition: Employee of the month Sep:2022
+Tools used: Amazon RDS, PostgreSQL, Python, Power-BI, Advanced Excel & Macros
+Cost and Last-Mile Delivery Optimization: Supplier Risk Assessment:  Route Optimization Models:
+My Innovation:  Supplier delivery metrics dashboard - Read more on GitHub
 
-- 90% of SL brands faced MOQ/FTL issues in supplying lower quantities and lead to non-fulfillment of replenishment POs. This, combined with the sales spike due to price reduction lead to 35% replen swoos% in Aug’22. Since onboarding of alternate options like enablement of ATS, SWA etc were a long pole, I quickly onboarded brands on SPN (Service Provider Network) service which connects 3P logistics partners to the brand.  90% of the brands facing MOQ issues on SPN (8 out of 9 brands facing issues) was onboarded in a span of 40 days, thus reducing Replen SWOOS% by 1100 bps (from 35% in Aug’22 to 24% in Sep’22).
+Include learning and one line contribution of your work to the problem.
 
-<h4 align ="left">   
-# Key account expansion & Strategic management
-</h4> Company: Amazon - Sr.Manager: Neha - Team: SMB sales
+# QLR – Workflow automation
+Role: IC Vertical: SMB Sales Duration: 01 Month
+Recognition: Employee of the month Feb:2023
+Tools used: Amazon RDS, PostgreSQL, Python, Salesforce, Amazon SIM (Jira), Advanced Excel & Macros
+My Innovation: QL file automation – Read more on GitHub
 
-<h4 align ="left">   
-# Softline Portfolio Expansion
-</h4> Company: Amazon - Sr.Manager: Arvind - Team: Category Management, Softline 
+Include learning and one line contribution of your work to the problem.
 
-<h4 align ="left">   
-# QLR - Streamlining workflow using automation
-</h4> Company: Amazon - Sr.Manager: Neha - Team: SMB sales
+# S3P & P3P TT implementation
+Role: Lead Vertical: Sales & Operations Duration: 01 Month
+Recognition: Employee of the month Feb:2023
+Tools used: Amazon SIM (Jira)
 
-<h4 align ="left">   
-# S3P & P3P Ticketing system
-</h4> Company: Amazon - Sr.Manager: Neha - Team: SMB sales
+Include learning and one line contribution of your work to the problem.
 
-<h4 align ="left">   
-# Amazon recommerce pilot program (Liquidation)
-</h4> Company: Amazon - Sr.Manager: Neha & Arvind - Team: Instock Management, Softline
+# Amazon Re-commerce (Liquidation) dashboard
+Role: Lead Vertical: Sales & Operations Duration: 06 Months
+Tools used: Advanced Excel & Macros
+My Innovation: Reseller database mining
 
-<h4 align ="left"> 
-# Product catalog upgrade with enhanced images 
-</h4> Company: Amazon - Sr.Manager: Yojit - Team: Product Management
+Include learning and one line contribution of your work to the problem.
+
+# Portfolio Expansion & Strategic Key Account Management
+Role: Lead Vertical: Sales & Operations Duration: 5 Years
+Recognition: Employee of the month Feb:2023
+Tools used: Advanced Excel & Macros
+Market Basket Analysis: Customer Segmentation:
+My Innovation: S&O Dashboard , OS Analytics Platform , Competitor benchmarking tool - Confidential- Read more
+
+Include learning and one line contribution of your work to the problem.
+
+# Product catalogue upgrade with enhanced images 
+Role: IC Vertical: Product Management Duration: Months
+Visual Search and Image Recognition:
+Bulk File Rename Utility ,
+
+Include learning and one line contribution of your work to the problem.
+
+# Employee performance management
+Role: IC Vertical: Sales Duration: 3 Years
+Recognition: Employee of the month Feb:2023
+Tools used:  Advanced Excel & Macros
+Market Basket Analysis: Customer Segmentation:
+Directed the Machine Learning strategies for a Candidate Screening Product, enhancing recruitment accuracy through a multifaceted 'Fit to Role' scoring system.
+Innovated in Skill Extraction and Normalization using Sentence-BERT and Levenshtein Distance, significantly improving the matching accuracy between candidates and job descriptions.
+Implemented a multi-label BERT-based text classification system to predict job functions, achieving an F1 Score of ~89%.
+
+Include learning and one line contribution of your work to the problem.
+
+# Audit compliance tracker and ODR threshold
+Role: IC Vertical: Sales & Operations Duration: 2 Year
+Recognition: Employee of the month Feb:2023
+Tools used: Amazon Internal Tools, Advanced Excel & Macros
+Market Basket Analysis: Customer Segmentation:
+
+Compliance Tracker - Confidential
+
+Include learning and one line contribution of your work to the problem.
+
+# Prefilled product template
+Role: IC Vertical: Sales & Operations Duration: 6 Months
+Recognition: Employee of the month Feb:2023
+Tools used: Amazon Internal Tools, Advanced Excel & Macros
+Market Basket Analysis: Customer Segmentation:
+
+Include learning and one line contribution of your work to the problem.
+
+Other Projects
+
+Marvel movie database - Tableau Public 
+Housing price Prediction
+US Income prediction
+E-commerce sales 
