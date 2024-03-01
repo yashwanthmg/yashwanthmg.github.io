@@ -8,10 +8,10 @@ Intro
 
 Professional Summary
 
-Amazon
-Past: Blubirch & Prione Business Services PVT LTD (Amazon Subsidiaries)
+# Amazon
+### Past: Blubirch & Prione Business Services PVT LTD (Amazon Subsidiaries)
 12/2019 - 09/2023, Bangalore
-Senior Associate (Lead)
+## Senior Associate (Lead)
 
 Domain: E-commerce
 Sub-Domain: Sales (B2B) and Operations (ISM & SCM), Transaction Risk Management
