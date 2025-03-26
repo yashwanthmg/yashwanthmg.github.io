@@ -8,7 +8,7 @@ Work In Progress
 Hi there, I'm Yashwanth MG 👋
 </h2>
 
-I have a strong passion for my work and take pleasure in both planning and executing projects. My proactive approach is rooted in innovation, as I continually seek solutions to challenges. My extensive experience within the Amazon ecosystem has equipped me with valuable insights into processes, tools, LPs, and culture, enabling me to make effective contributions in my roles. My skillset encompasses CRM, negotiation, customer service, project management, and people management. I excel in organization and delegation, adapting seamlessly to new learning opportunities, and swiftly acquiring the software and skills necessary to excel in any environment. - <a href="https://github.com/yashwanthmg/res2223/blob/75c78666d79b3b2e7fac3f2f1dd384aa69e394f1/Main/Images/Yashwanth_Resume_Final_3.pdf" target="_blank" rel="noreferrer">View Resume</a>
+I have a strong passion for my work and take pleasure in both planning and executing projects. My proactive approach is rooted in innovation, as I continually seek solutions to challenges. My extensive experience within the Amazon ecosystem has equipped me with valuable insights into processes, tools, LPs, and culture, enabling me to make effective contributions in my roles. My skillset encompasses Data analyses, Dashboard building, Vibe coding and manymore. I excel in adapting seamlessly to new learning opportunities and swiftly acquiring the software and skills necessary to excel in any environment. - <a href="https://github.com/yashwanthmg/res2223/blob/75c78666d79b3b2e7fac3f2f1dd384aa69e394f1/Main/Images/Yashwanth_Resume_Final_3.pdf" target="_blank" rel="noreferrer">View Resume</a>
 
                                                                                                                                                       
 ## 🌱 Experience
@@ -50,9 +50,9 @@ I have a strong passion for my work and take pleasure in both planning and execu
 
 ## 💼 amazon expertise
 
-- Tools - Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali, Salesforce Pardot  etc
-- Process - Seller / Vendor onboarding, New ASIN Creation, Suppression, Porting & attribute changes, Image correction, PO & order management, Sponsored Ads, USI RTV & Liquidation, Brand registry, Compliance audits, Account reinstatement & activation, Gated/Restricted category approvals, QL & DP configurations, Payment & dispute resolution etc
 - Languages - Python, Rust, SQL, C++
+- Tools - Weblabs, Hubble, Hoot, Bumblebee, AWS, Cedric, Q developer portal, Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali, Salesforce Pardot  etc
+- Process - Seller / Vendor onboarding, New ASIN Creation, Suppression, Porting & attribute changes, Image correction, PO & order management, Sponsored Ads, USI RTV & Liquidation, Brand registry, Compliance audits, Account reinstatement & activation, Gated/Restricted category approvals, QL & DP configurations, Payment & dispute resolution etc
 
 
 ## 🏆 Activities & Recognitions🥇
@@ -68,6 +68,18 @@ I have a strong passion for my work and take pleasure in both planning and execu
 
                                                                        
 ## 📝 Projects i have worked on
+
+<h4 align ="left">   
+# QLR - Streamlining workflow using automation
+</h4> Company: Amazon - Sr.Manager: Neha - Team: SMB sales
+
+<h4 align ="left">   
+# S3P & P3P TT system
+</h4> Company: Amazon - Sr.Manager: Neha - Team: SMB sales
+
+<h4 align ="left"> 
+# Product catalog upgrade with enhanced images 
+</h4> Company: Amazon - Sr.Manager: Yojit - Team: Product Management
 
 <h4 align ="left">   
 # USI Portfolio & Vendor Inbound Guidelines
@@ -89,21 +101,12 @@ I have a strong passion for my work and take pleasure in both planning and execu
 # Softline Portfolio Expansion
 </h4> Company: Amazon - Sr.Manager: Arvind - Team: Category Management, Softline 
 
-<h4 align ="left">   
-# QLR - Streamlining workflow using automation
-</h4> Company: Amazon - Sr.Manager: Neha - Team: SMB sales
-
-<h4 align ="left">   
-# S3P & P3P TT system
-</h4> Company: Amazon - Sr.Manager: Neha - Team: SMB sales
 
 <h4 align ="left">   
 # Amazon recommerce pilot program (Liquidation)
 </h4> Company: Amazon - Sr.Manager: Neha & Arvind - Team: Instock Management, Softline
 
-<h4 align ="left"> 
-# Product catalog upgrade with enhanced images 
-</h4> Company: Amazon - Sr.Manager: Yojit - Team: Product Management
+
 
 
                                                                                                                             
