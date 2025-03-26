@@ -27,7 +27,7 @@ I have a strong passion for my work and take pleasure in both planning and execu
 # Blubirch - Assistant Manager : Nov 2021 - Mar 2022 
 </h4>
                                                                                                                                   
-## 📜 Certifications
+## 📜 Certifications (WIP - Broken Link)
 
 - Hackerrank SQL & Datascience certification - <a href="" target="_blank" rel="noreferrer">View</a>
 - Linkedin AI Courses certification - <a href="" target="_blank" rel="noreferrer">View</a>
